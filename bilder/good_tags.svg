@@ -1,0 +1,712 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="800"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" height="600"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.0">
+    <g class="titles" transform="translate(2,0)"/>
+    <g class="vis"
+       transform="translate(400, 300) scale(0.6535948514938354,0.6535948514938354)">
+        <text id="tag_1"
+              style="font-size: 100px; font-family: Impact; font-weight: normal; fill: rgb(0, 255, 0); cursor: pointer; user-select: none;"
+              transform="translate(-170,109)rotate(0)" text-anchor="middle">
+            1990&apos;s
+        </text>
+        <text id="tag_2"
+              style="font-size: 97px; font-family: Impact; font-weight: normal; fill: rgb(2, 253, 2); cursor: pointer; user-select: none;"
+              transform="translate(-73,-45)rotate(0)" text-anchor="middle">
+            cats
+        </text>
+        <text id="tag_3"
+              style="font-size: 90px; font-family: Impact; font-weight: normal; fill: rgb(7, 248, 7); cursor: pointer; user-select: none;"
+              transform="translate(-215,18)rotate(0)" text-anchor="middle">
+            logic
+        </text>
+        <text id="tag_4"
+              style="font-size: 88px; font-family: Impact; font-weight: normal; fill: rgb(8, 247, 8); cursor: pointer; user-select: none;"
+              transform="translate(-2,-120)rotate(0)" text-anchor="middle">
+            hockey
+        </text>
+        <text id="tag_5"
+              style="font-size: 81px; font-family: Impact; font-weight: normal; fill: rgb(13, 243, 13); cursor: pointer; user-select: none;"
+              transform="translate(-116,178)rotate(0)" text-anchor="middle">
+            tactical rpg
+        </text>
+        <text id="tag_6"
+              style="font-size: 80px; font-family: Impact; font-weight: normal; fill: rgb(13, 242, 13); cursor: pointer; user-select: none;"
+              transform="translate(139,-47)rotate(0)" text-anchor="middle">
+            skating
+        </text>
+        <text id="tag_7"
+              style="font-size: 78px; font-family: Impact; font-weight: normal; fill: rgb(15, 240, 15); cursor: pointer; user-select: none;"
+              transform="translate(-163,251)rotate(0)" text-anchor="middle">
+            animation&amp; modeling
+        </text>
+        <text id="tag_8"
+              style="font-size: 70px; font-family: Impact; font-weight: normal; fill: rgb(20, 235, 20); cursor: pointer; user-select: none;"
+              transform="translate(188,66)rotate(0)" text-anchor="middle">
+            lorerich
+        </text>
+        <text id="tag_9"
+              style="font-size: 66px; font-family: Impact; font-weight: normal; fill: rgb(23, 232, 23); cursor: pointer; user-select: none;"
+              transform="translate(131,121)rotate(0)" text-anchor="middle">
+            education
+        </text>
+        <text id="tag_10"
+              style="font-size: 65px; font-family: Impact; font-weight: normal; fill: rgb(23, 232, 23); cursor: pointer; user-select: none;"
+              transform="translate(-242,-68)rotate(0)" text-anchor="middle">
+            chess
+        </text>
+        <text id="tag_11"
+              style="font-size: 65px; font-family: Impact; font-weight: normal; fill: rgb(24, 232, 24); cursor: pointer; user-select: none;"
+              transform="translate(281,176)rotate(0)" text-anchor="middle">
+            immersive sim
+        </text>
+        <text id="tag_12"
+              style="font-size: 64px; font-family: Impact; font-weight: normal; fill: rgb(24, 231, 24); cursor: pointer; user-select: none;"
+              transform="translate(330,6)rotate(0)" text-anchor="middle">
+            experience
+        </text>
+        <text id="tag_13"
+              style="font-size: 58px; font-family: Impact; font-weight: normal; fill: rgb(28, 227, 28); cursor: pointer; user-select: none;"
+              transform="translate(-356,-126)rotate(0)" text-anchor="middle">
+            time management
+        </text>
+        <text id="tag_14"
+              style="font-size: 58px; font-family: Impact; font-weight: normal; fill: rgb(28, 227, 28); cursor: pointer; user-select: none;"
+              transform="translate(-3,3)rotate(0)" text-anchor="middle">
+            tutorial
+        </text>
+        <text id="tag_15"
+              style="font-size: 55px; font-family: Impact; font-weight: normal; fill: rgb(30, 225, 30); cursor: pointer; user-select: none;"
+              transform="translate(-213,-168)rotate(0)" text-anchor="middle">
+            faith
+        </text>
+        <text id="tag_16"
+              style="font-size: 55px; font-family: Impact; font-weight: normal; fill: rgb(30, 225, 30); cursor: pointer; user-select: none;"
+              transform="translate(-76,299)rotate(0)" text-anchor="middle">
+            spectacle fighter
+        </text>
+        <text id="tag_17"
+              style="font-size: 54px; font-family: Impact; font-weight: normal; fill: rgb(31, 225, 31); cursor: pointer; user-select: none;"
+              transform="translate(99,-194)rotate(0)" text-anchor="middle">
+            controller
+        </text>
+        <text id="tag_18"
+              style="font-size: 54px; font-family: Impact; font-weight: normal; fill: rgb(31, 224, 31); cursor: pointer; user-select: none;"
+              transform="translate(369,107)rotate(0)" text-anchor="middle">
+            solitaire
+        </text>
+        <text id="tag_19"
+              style="font-size: 54px; font-family: Impact; font-weight: normal; fill: rgb(31, 224, 31); cursor: pointer; user-select: none;"
+              transform="translate(-18,-237)rotate(0)" text-anchor="middle">
+            supernatural
+        </text>
+        <text id="tag_20"
+              style="font-size: 47px; font-family: Impact; font-weight: normal; fill: rgb(35, 220, 35); cursor: pointer; user-select: none;"
+              transform="translate(-113,342)rotate(0)" text-anchor="middle">
+            typing
+        </text>
+        <text id="tag_21"
+              style="font-size: 47px; font-family: Impact; font-weight: normal; fill: rgb(36, 220, 36); cursor: pointer; user-select: none;"
+              transform="translate(-144,390)rotate(0)" text-anchor="middle">
+            warhammer 40k
+        </text>
+        <text id="tag_22"
+              style="font-size: 47px; font-family: Impact; font-weight: normal; fill: rgb(36, 219, 36); cursor: pointer; user-select: none;"
+              transform="translate(-280,-223)rotate(0)" text-anchor="middle">
+            swordplay
+        </text>
+        <text id="tag_23"
+              style="font-size: 46px; font-family: Impact; font-weight: normal; fill: rgb(36, 219, 36); cursor: pointer; user-select: none;"
+              transform="translate(39,-283)rotate(0)" text-anchor="middle">
+            beautiful
+        </text>
+        <text id="tag_24"
+              style="font-size: 46px; font-family: Impact; font-weight: normal; fill: rgb(36, 219, 36); cursor: pointer; user-select: none;"
+              transform="translate(34,343)rotate(0)" text-anchor="middle">
+            magic
+        </text>
+        <text id="tag_25"
+              style="font-size: 45px; font-family: Impact; font-weight: normal; fill: rgb(37, 218, 37); cursor: pointer; user-select: none;"
+              transform="translate(-327,344)rotate(0)" text-anchor="middle">
+            programming
+        </text>
+        <text id="tag_26"
+              style="font-size: 44px; font-family: Impact; font-weight: normal; fill: rgb(38, 217, 38); cursor: pointer; user-select: none;"
+              transform="translate(374,-51)rotate(0)" text-anchor="middle">
+            agriculture
+        </text>
+        <text id="tag_27"
+              style="font-size: 43px; font-family: Impact; font-weight: normal; fill: rgb(39, 217, 39); cursor: pointer; user-select: none;"
+              transform="translate(207,314)rotate(0)" text-anchor="middle">
+            2d fighter
+        </text>
+        <text id="tag_28"
+              style="font-size: 41px; font-family: Impact; font-weight: normal; fill: rgb(40, 216, 40); cursor: pointer; user-select: none;"
+              transform="translate(-372,304)rotate(0)" text-anchor="middle">
+            teambased
+        </text>
+        <text id="tag_29"
+              style="font-size: 41px; font-family: Impact; font-weight: normal; fill: rgb(40, 215, 40); cursor: pointer; user-select: none;"
+              transform="translate(-378,59)rotate(0)" text-anchor="middle">
+            gaming
+        </text>
+        <text id="tag_30"
+              style="font-size: 40px; font-family: Impact; font-weight: normal; fill: rgb(40, 215, 40); cursor: pointer; user-select: none;"
+              transform="translate(80,-327)rotate(0)" text-anchor="middle">
+            villain protagonist
+        </text>
+        <text id="tag_31"
+              style="font-size: 39px; font-family: Impact; font-weight: normal; fill: rgb(41, 214, 41); cursor: pointer; user-select: none;"
+              transform="translate(-157,-280)rotate(0)" text-anchor="middle">
+            split screen
+        </text>
+        <text id="tag_32"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(44, 212, 44); cursor: pointer; user-select: none;"
+              transform="translate(33,34)rotate(0)" text-anchor="middle">
+            6dof
+        </text>
+        <text id="tag_33"
+              style="font-size: 35px; font-family: Impact; font-weight: normal; fill: rgb(44, 211, 44); cursor: pointer; user-select: none;"
+              transform="translate(-369,-169)rotate(0)" text-anchor="middle">
+            crowdfunded
+        </text>
+        <text id="tag_34"
+              style="font-size: 32px; font-family: Impact; font-weight: normal; fill: rgb(46, 210, 46); cursor: pointer; user-select: none;"
+              transform="translate(-105,-199)rotate(0)" text-anchor="middle">
+            relaxing
+        </text>
+        <text id="tag_35"
+              style="font-size: 32px; font-family: Impact; font-weight: normal; fill: rgb(46, 210, 46); cursor: pointer; user-select: none;"
+              transform="translate(-447,-93)rotate(0)" text-anchor="middle">
+            metroidvania
+        </text>
+        <text id="tag_36"
+              style="font-size: 31px; font-family: Impact; font-weight: normal; fill: rgb(46, 209, 46); cursor: pointer; user-select: none;"
+              transform="translate(-349,-270)rotate(0)" text-anchor="middle">
+            perma death
+        </text>
+        <text id="tag_37"
+              style="font-size: 31px; font-family: Impact; font-weight: normal; fill: rgb(46, 209, 46); cursor: pointer; user-select: none;"
+              transform="translate(175,-128)rotate(0)" text-anchor="middle">
+            pinball
+        </text>
+        <text id="tag_38"
+              style="font-size: 30px; font-family: Impact; font-weight: normal; fill: rgb(47, 208, 47); cursor: pointer; user-select: none;"
+              transform="translate(249,-242)rotate(0)" text-anchor="middle">
+            interactive fiction
+        </text>
+        <text id="tag_39"
+              style="font-size: 29px; font-family: Impact; font-weight: normal; fill: rgb(47, 208, 47); cursor: pointer; user-select: none;"
+              transform="translate(160,-163)rotate(0)" text-anchor="middle">
+            loot
+        </text>
+        <text id="tag_40"
+              style="font-size: 29px; font-family: Impact; font-weight: normal; fill: rgb(47, 208, 47); cursor: pointer; user-select: none;"
+              transform="translate(166,345)rotate(0)" text-anchor="middle">
+            emotional
+        </text>
+        <text id="tag_41"
+              style="font-size: 29px; font-family: Impact; font-weight: normal; fill: rgb(48, 208, 48); cursor: pointer; user-select: none;"
+              transform="translate(13,64)rotate(0)" text-anchor="middle">
+            batman
+        </text>
+        <text id="tag_42"
+              style="font-size: 28px; font-family: Impact; font-weight: normal; fill: rgb(48, 207, 48); cursor: pointer; user-select: none;"
+              transform="translate(-183,-315)rotate(0)" text-anchor="middle">
+            philisophical
+        </text>
+        <text id="tag_43"
+              style="font-size: 27px; font-family: Impact; font-weight: normal; fill: rgb(49, 207, 49); cursor: pointer; user-select: none;"
+              transform="translate(-148,-343)rotate(0)" text-anchor="middle">
+            software
+        </text>
+        <text id="tag_44"
+              style="font-size: 27px; font-family: Impact; font-weight: normal; fill: rgb(49, 206, 49); cursor: pointer; user-select: none;"
+              transform="translate(-143,417)rotate(0)" text-anchor="middle">
+            singleplayer
+        </text>
+        <text id="tag_45"
+              style="font-size: 26px; font-family: Impact; font-weight: normal; fill: rgb(49, 206, 49); cursor: pointer; user-select: none;"
+              transform="translate(131,-23)rotate(0)" text-anchor="middle">
+            politics
+        </text>
+        <text id="tag_46"
+              style="font-size: 26px; font-family: Impact; font-weight: normal; fill: rgb(50, 206, 50); cursor: pointer; user-select: none;"
+              transform="translate(115,2)rotate(0)" text-anchor="middle">
+            cute
+        </text>
+        <text id="tag_47"
+              style="font-size: 26px; font-family: Impact; font-weight: normal; fill: rgb(50, 206, 50); cursor: pointer; user-select: none;"
+              transform="translate(285,-200)rotate(0)" text-anchor="middle">
+            online coop
+        </text>
+        <text id="tag_48"
+              style="font-size: 25px; font-family: Impact; font-weight: normal; fill: rgb(50, 205, 50); cursor: pointer; user-select: none;"
+              transform="translate(-335,-307)rotate(0)" text-anchor="middle">
+            fastpaced
+        </text>
+        <text id="tag_49"
+              style="font-size: 25px; font-family: Impact; font-weight: normal; fill: rgb(50, 205, 50); cursor: pointer; user-select: none;"
+              transform="translate(120,369)rotate(0)" text-anchor="middle">
+            beat&apos;em up
+        </text>
+        <text id="tag_50"
+              style="font-size: 25px; font-family: Impact; font-weight: normal; fill: rgb(50, 205, 50); cursor: pointer; user-select: none;"
+              transform="translate(-61,26)rotate(0)" text-anchor="middle">
+            minimalist
+        </text>
+        <text id="tag_51"
+              style="font-size: 25px; font-family: Impact; font-weight: normal; fill: rgb(51, 205, 51); cursor: pointer; user-select: none;"
+              transform="translate(266,276)rotate(0)" text-anchor="middle">
+            capitalism
+        </text>
+        <text id="tag_52"
+              style="font-size: 24px; font-family: Impact; font-weight: normal; fill: rgb(51, 204, 51); cursor: pointer; user-select: none;"
+              transform="translate(218,-271)rotate(0)" text-anchor="middle">
+            masterpiece
+        </text>
+        <text id="tag_53"
+              style="font-size: 24px; font-family: Impact; font-weight: normal; fill: rgb(51, 204, 51); cursor: pointer; user-select: none;"
+              transform="translate(293,-172)rotate(0)" text-anchor="middle">
+            blood
+        </text>
+        <text id="tag_54"
+              style="font-size: 24px; font-family: Impact; font-weight: normal; fill: rgb(51, 204, 51); cursor: pointer; user-select: none;"
+              transform="translate(-316,-201)rotate(0)" text-anchor="middle">
+            aliens
+        </text>
+        <text id="tag_55"
+              style="font-size: 24px; font-family: Impact; font-weight: normal; fill: rgb(51, 204, 51); cursor: pointer; user-select: none;"
+              transform="translate(197,-294)rotate(0)" text-anchor="middle">
+            visual novel
+        </text>
+        <text id="tag_56"
+              style="font-size: 23px; font-family: Impact; font-weight: normal; fill: rgb(51, 204, 51); cursor: pointer; user-select: none;"
+              transform="translate(225,-103)rotate(0)" text-anchor="middle">
+            anime
+        </text>
+        <text id="tag_57"
+              style="font-size: 23px; font-family: Impact; font-weight: normal; fill: rgb(51, 204, 51); cursor: pointer; user-select: none;"
+              transform="translate(286,339)rotate(0)" text-anchor="middle">
+            word game
+        </text>
+        <text id="tag_58"
+              style="font-size: 23px; font-family: Impact; font-weight: normal; fill: rgb(52, 204, 52); cursor: pointer; user-select: none;"
+              transform="translate(238,231)rotate(0)" text-anchor="middle">
+            baseball
+        </text>
+        <text id="tag_59"
+              style="font-size: 23px; font-family: Impact; font-weight: normal; fill: rgb(52, 204, 52); cursor: pointer; user-select: none;"
+              transform="translate(-227,-47)rotate(0)" text-anchor="middle">
+            rhythm
+        </text>
+        <text id="tag_60"
+              style="font-size: 22px; font-family: Impact; font-weight: normal; fill: rgb(52, 203, 52); cursor: pointer; user-select: none;"
+              transform="translate(-29,-365)rotate(0)" text-anchor="middle">
+            hex grid
+        </text>
+        <text id="tag_61"
+              style="font-size: 21px; font-family: Impact; font-weight: normal; fill: rgb(53, 203, 53); cursor: pointer; user-select: none;"
+              transform="translate(52,-357)rotate(0)" text-anchor="middle">
+            romance
+        </text>
+        <text id="tag_62"
+              style="font-size: 21px; font-family: Impact; font-weight: normal; fill: rgb(53, 203, 53); cursor: pointer; user-select: none;"
+              transform="translate(-117,-368)rotate(0)" text-anchor="middle">
+            star wars
+        </text>
+        <text id="tag_63"
+              style="font-size: 21px; font-family: Impact; font-weight: normal; fill: rgb(53, 203, 53); cursor: pointer; user-select: none;"
+              transform="translate(245,198)rotate(0)" text-anchor="middle">
+            moddable
+        </text>
+        <text id="tag_64"
+              style="font-size: 21px; font-family: Impact; font-weight: normal; fill: rgb(53, 202, 53); cursor: pointer; user-select: none;"
+              transform="translate(316,-293)rotate(0)" text-anchor="middle">
+            bullet hell
+        </text>
+        <text id="tag_65"
+              style="font-size: 21px; font-family: Impact; font-weight: normal; fill: rgb(53, 202, 53); cursor: pointer; user-select: none;"
+              transform="translate(332,-326)rotate(0)" text-anchor="middle">
+            multiple endings
+        </text>
+        <text id="tag_66"
+              style="font-size: 20px; font-family: Impact; font-weight: normal; fill: rgb(53, 202, 53); cursor: pointer; user-select: none;"
+              transform="translate(-423,28)rotate(0)" text-anchor="middle">
+            tactical
+        </text>
+        <text id="tag_67"
+              style="font-size: 20px; font-family: Impact; font-weight: normal; fill: rgb(54, 202, 54); cursor: pointer; user-select: none;"
+              transform="translate(-421,270)rotate(0)" text-anchor="middle">
+            spelling
+        </text>
+        <text id="tag_68"
+              style="font-size: 20px; font-family: Impact; font-weight: normal; fill: rgb(54, 202, 54); cursor: pointer; user-select: none;"
+              transform="translate(326,48)rotate(0)" text-anchor="middle">
+            retro
+        </text>
+        <text id="tag_69"
+              style="font-size: 20px; font-family: Impact; font-weight: normal; fill: rgb(54, 202, 54); cursor: pointer; user-select: none;"
+              transform="translate(-329,271)rotate(0)" text-anchor="middle">
+            pirates
+        </text>
+        <text id="tag_70"
+              style="font-size: 19px; font-family: Impact; font-weight: normal; fill: rgb(54, 201, 54); cursor: pointer; user-select: none;"
+              transform="translate(-245,-352)rotate(0)" text-anchor="middle">
+            textbased
+        </text>
+        <text id="tag_71"
+              style="font-size: 19px; font-family: Impact; font-weight: normal; fill: rgb(54, 201, 54); cursor: pointer; user-select: none;"
+              transform="translate(160,14)rotate(0)" text-anchor="middle">
+            dark
+        </text>
+        <text id="tag_72"
+              style="font-size: 19px; font-family: Impact; font-weight: normal; fill: rgb(55, 201, 55); cursor: pointer; user-select: none;"
+              transform="translate(56,-378)rotate(0)" text-anchor="middle">
+            dating sim
+        </text>
+        <text id="tag_73"
+              style="font-size: 18px; font-family: Impact; font-weight: normal; fill: rgb(55, 201, 55); cursor: pointer; user-select: none;"
+              transform="translate(146,-360)rotate(0)" text-anchor="middle">
+            roguelike
+        </text>
+        <text id="tag_74"
+              style="font-size: 18px; font-family: Impact; font-weight: normal; fill: rgb(55, 201, 55); cursor: pointer; user-select: none;"
+              transform="translate(278,364)rotate(0)" text-anchor="middle">
+            family friendly
+        </text>
+        <text id="tag_75"
+              style="font-size: 18px; font-family: Impact; font-weight: normal; fill: rgb(55, 201, 55); cursor: pointer; user-select: none;"
+              transform="translate(-228,-370)rotate(0)" text-anchor="middle">
+            dark humor
+        </text>
+        <text id="tag_76"
+              style="font-size: 18px; font-family: Impact; font-weight: normal; fill: rgb(55, 201, 55); cursor: pointer; user-select: none;"
+              transform="translate(-167,195)rotate(0)" text-anchor="middle">
+            america
+        </text>
+        <text id="tag_77"
+              style="font-size: 18px; font-family: Impact; font-weight: normal; fill: rgb(55, 200, 55); cursor: pointer; user-select: none;"
+              transform="translate(-365,-346)rotate(0)" text-anchor="middle">
+            4 player local
+        </text>
+        <text id="tag_78"
+              style="font-size: 18px; font-family: Impact; font-weight: normal; fill: rgb(55, 200, 55); cursor: pointer; user-select: none;"
+              transform="translate(-354,365)rotate(0)" text-anchor="middle">
+            level editor
+        </text>
+        <text id="tag_79"
+              style="font-size: 18px; font-family: Impact; font-weight: normal; fill: rgb(55, 200, 55); cursor: pointer; user-select: none;"
+              transform="translate(299,-221)rotate(0)" text-anchor="middle">
+            sandbox
+        </text>
+        <text id="tag_80"
+              style="font-size: 17px; font-family: Impact; font-weight: normal; fill: rgb(55, 200, 55); cursor: pointer; user-select: none;"
+              transform="translate(-61,196)rotate(0)" text-anchor="middle">
+            cold war
+        </text>
+        <text id="tag_81"
+              style="font-size: 17px; font-family: Impact; font-weight: normal; fill: rgb(55, 200, 55); cursor: pointer; user-select: none;"
+              transform="translate(-330,26)rotate(0)" text-anchor="middle">
+            ninja
+        </text>
+        <text id="tag_82"
+              style="font-size: 17px; font-family: Impact; font-weight: normal; fill: rgb(56, 200, 56); cursor: pointer; user-select: none;"
+              transform="translate(-329,-370)rotate(0)" text-anchor="middle">
+            point&amp; click
+        </text>
+        <text id="tag_83"
+              style="font-size: 17px; font-family: Impact; font-weight: normal; fill: rgb(56, 200, 56); cursor: pointer; user-select: none;"
+              transform="translate(-380,-207)rotate(0)" text-anchor="middle">
+            western
+        </text>
+        <text id="tag_84"
+              style="font-size: 17px; font-family: Impact; font-weight: normal; fill: rgb(56, 200, 56); cursor: pointer; user-select: none;"
+              transform="translate(109,391)rotate(0)" text-anchor="middle">
+            atmospheric
+        </text>
+        <text id="tag_85"
+              style="font-size: 17px; font-family: Impact; font-weight: normal; fill: rgb(56, 200, 56); cursor: pointer; user-select: none;"
+              transform="translate(215,249)rotate(0)" text-anchor="middle">
+            pool
+        </text>
+        <text id="tag_86"
+              style="font-size: 17px; font-family: Impact; font-weight: normal; fill: rgb(56, 200, 56); cursor: pointer; user-select: none;"
+              transform="translate(-423,130)rotate(0)" text-anchor="middle">
+            classic
+        </text>
+        <text id="tag_87"
+              style="font-size: 16px; font-family: Impact; font-weight: normal; fill: rgb(56, 199, 56); cursor: pointer; user-select: none;"
+              transform="translate(141,-386)rotate(0)" text-anchor="middle">
+            cult classic
+        </text>
+        <text id="tag_88"
+              style="font-size: 16px; font-family: Impact; font-weight: normal; fill: rgb(56, 199, 56); cursor: pointer; user-select: none;"
+              transform="translate(300,-350)rotate(0)" text-anchor="middle">
+            bullet time
+        </text>
+        <text id="tag_89"
+              style="font-size: 16px; font-family: Impact; font-weight: normal; fill: rgb(56, 199, 56); cursor: pointer; user-select: none;"
+              transform="translate(-102,-389)rotate(0)" text-anchor="middle">
+            quicktime events
+        </text>
+        <text id="tag_90"
+              style="font-size: 16px; font-family: Impact; font-weight: normal; fill: rgb(56, 199, 56); cursor: pointer; user-select: none;"
+              transform="translate(209,382)rotate(0)" text-anchor="middle">
+            sokoban
+        </text>
+        <text id="tag_91"
+              style="font-size: 16px; font-family: Impact; font-weight: normal; fill: rgb(56, 199, 56); cursor: pointer; user-select: none;"
+              transform="translate(379,-227)rotate(0)" text-anchor="middle">
+            parody
+        </text>
+        <text id="tag_92"
+              style="font-size: 16px; font-family: Impact; font-weight: normal; fill: rgb(56, 199, 56); cursor: pointer; user-select: none;"
+              transform="translate(-473,-275)rotate(0)" text-anchor="middle">
+            cyberpunk
+        </text>
+        <text id="tag_93"
+              style="font-size: 16px; font-family: Impact; font-weight: normal; fill: rgb(56, 199, 56); cursor: pointer; user-select: none;"
+              transform="translate(-343,196)rotate(0)" text-anchor="middle">
+            remake
+        </text>
+        <text id="tag_94"
+              style="font-size: 16px; font-family: Impact; font-weight: normal; fill: rgb(56, 199, 56); cursor: pointer; user-select: none;"
+              transform="translate(243,400)rotate(0)" text-anchor="middle">
+            great soundtrack
+        </text>
+        <text id="tag_95"
+              style="font-size: 16px; font-family: Impact; font-weight: normal; fill: rgb(56, 199, 56); cursor: pointer; user-select: none;"
+              transform="translate(253,-376)rotate(0)" text-anchor="middle">
+            time manipulation
+        </text>
+        <text id="tag_96"
+              style="font-size: 16px; font-family: Impact; font-weight: normal; fill: rgb(56, 199, 56); cursor: pointer; user-select: none;"
+              transform="translate(-17,409)rotate(0)" text-anchor="middle">
+            martial arts
+        </text>
+        <text id="tag_97"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(57, 199, 57); cursor: pointer; user-select: none;"
+              transform="translate(184,-403)rotate(0)" text-anchor="middle">
+            tower defense
+        </text>
+        <text id="tag_98"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(57, 199, 57); cursor: pointer; user-select: none;"
+              transform="translate(-9,425)rotate(0)" text-anchor="middle">
+            handdrawn
+        </text>
+        <text id="tag_99"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(57, 198, 57); cursor: pointer; user-select: none;"
+              transform="translate(164,276)rotate(0)" text-anchor="middle">
+            Constant
+        </text>
+        <text id="tag_100"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(57, 198, 57); cursor: pointer; user-select: none;"
+              transform="translate(146,191)rotate(0)" text-anchor="middle">
+            story rich
+        </text>
+        <text id="tag_101"
+              style="font-size: 15px; font-family: Impact; font-weight: normal; fill: rgb(57, 198, 57); cursor: pointer; user-select: none;"
+              transform="translate(-197,-387)rotate(0)" text-anchor="middle">
+            narration
+        </text>
+        <text id="tag_102"
+              style="font-size: 14px; font-family: Impact; font-weight: normal; fill: rgb(57, 198, 57); cursor: pointer; user-select: none;"
+              transform="translate(-11,-398)rotate(0)" text-anchor="middle">
+            addictive
+        </text>
+        <text id="tag_103"
+              style="font-size: 14px; font-family: Impact; font-weight: normal; fill: rgb(58, 198, 58); cursor: pointer; user-select: none;"
+              transform="translate(456,121)rotate(0)" text-anchor="middle">
+            rpgmaker
+        </text>
+        <text id="tag_104"
+              style="font-size: 14px; font-family: Impact; font-weight: normal; fill: rgb(58, 198, 58); cursor: pointer; user-select: none;"
+              transform="translate(118,410)rotate(0)" text-anchor="middle">
+            twin stick shooter
+        </text>
+        <text id="tag_105"
+              style="font-size: 14px; font-family: Impact; font-weight: normal; fill: rgb(58, 198, 58); cursor: pointer; user-select: none;"
+              transform="translate(112,427)rotate(0)" text-anchor="middle">
+            partybased rpg
+        </text>
+        <text id="tag_106"
+              style="font-size: 14px; font-family: Impact; font-weight: normal; fill: rgb(58, 198, 58); cursor: pointer; user-select: none;"
+              transform="translate(319,190)rotate(0)" text-anchor="middle">
+            science
+        </text>
+        <text id="tag_107"
+              style="font-size: 14px; font-family: Impact; font-weight: normal; fill: rgb(58, 198, 58); cursor: pointer; user-select: none;"
+              transform="translate(86,-405)rotate(0)" text-anchor="middle">
+            hack and slash
+        </text>
+        <text id="tag_108"
+              style="font-size: 14px; font-family: Impact; font-weight: normal; fill: rgb(58, 198, 58); cursor: pointer; user-select: none;"
+              transform="translate(165,-114)rotate(0)" text-anchor="middle">
+            puzzle
+        </text>
+        <text id="tag_109"
+              style="font-size: 13px; font-family: Impact; font-weight: normal; fill: rgb(58, 197, 58); cursor: pointer; user-select: none;"
+              transform="translate(-37,-224)rotate(0)" text-anchor="middle">
+            comedy
+        </text>
+        <text id="tag_110"
+              style="font-size: 13px; font-family: Impact; font-weight: normal; fill: rgb(58, 197, 58); cursor: pointer; user-select: none;"
+              transform="translate(-94,-182)rotate(0)" text-anchor="middle">
+            fmv
+        </text>
+        <text id="tag_111"
+              style="font-size: 13px; font-family: Impact; font-weight: normal; fill: rgb(58, 197, 58); cursor: pointer; user-select: none;"
+              transform="translate(-258,408)rotate(0)" text-anchor="middle">
+            management
+        </text>
+        <text id="tag_112"
+              style="font-size: 13px; font-family: Impact; font-weight: normal; fill: rgb(59, 197, 59); cursor: pointer; user-select: none;"
+              transform="translate(290,120)rotate(0)" text-anchor="middle">
+            sports
+        </text>
+        <text id="tag_113"
+              style="font-size: 13px; font-family: Impact; font-weight: normal; fill: rgb(59, 197, 59); cursor: pointer; user-select: none;"
+              transform="translate(109,17)rotate(0)" text-anchor="middle">
+            satire
+        </text>
+        <text id="tag_114"
+              style="font-size: 12px; font-family: Impact; font-weight: normal; fill: rgb(59, 197, 59); cursor: pointer; user-select: none;"
+              transform="translate(-339,-330)rotate(0)" text-anchor="middle">
+            local multiplayer
+        </text>
+        <text id="tag_115"
+              style="font-size: 12px; font-family: Impact; font-weight: normal; fill: rgb(59, 197, 59); cursor: pointer; user-select: none;"
+              transform="translate(257,414)rotate(0)" text-anchor="middle">
+            pixel graphics
+        </text>
+        <text id="tag_116"
+              style="font-size: 12px; font-family: Impact; font-weight: normal; fill: rgb(59, 197, 59); cursor: pointer; user-select: none;"
+              transform="translate(390,-295)rotate(0)" text-anchor="middle">
+            historical
+        </text>
+        <text id="tag_117"
+              style="font-size: 12px; font-family: Impact; font-weight: normal; fill: rgb(59, 197, 59); cursor: pointer; user-select: none;"
+              transform="translate(298,381)rotate(0)" text-anchor="middle">
+            turnbased
+        </text>
+        <text id="tag_118"
+              style="font-size: 12px; font-family: Impact; font-weight: normal; fill: rgb(59, 197, 59); cursor: pointer; user-select: none;"
+              transform="translate(7,-413)rotate(0)" text-anchor="middle">
+            detective
+        </text>
+        <text id="tag_119"
+              style="font-size: 12px; font-family: Impact; font-weight: normal; fill: rgb(59, 196, 59); cursor: pointer; user-select: none;"
+              transform="translate(351,395)rotate(0)" text-anchor="middle">
+            arena shooter
+        </text>
+        <text id="tag_120"
+              style="font-size: 12px; font-family: Impact; font-weight: normal; fill: rgb(59, 196, 59); cursor: pointer; user-select: none;"
+              transform="translate(-106,-408)rotate(0)" text-anchor="middle">
+            female protagonist
+        </text>
+        <text id="tag_121"
+              style="font-size: 12px; font-family: Impact; font-weight: normal; fill: rgb(59, 196, 59); cursor: pointer; user-select: none;"
+              transform="translate(366,371)rotate(0)" text-anchor="middle">
+            destruction
+        </text>
+        <text id="tag_122"
+              style="font-size: 11px; font-family: Impact; font-weight: normal; fill: rgb(59, 196, 59); cursor: pointer; user-select: none;"
+              transform="translate(-315,80)rotate(0)" text-anchor="middle">
+            stylized
+        </text>
+        <text id="tag_123"
+              style="font-size: 11px; font-family: Impact; font-weight: normal; fill: rgb(59, 196, 59); cursor: pointer; user-select: none;"
+              transform="translate(-41,-185)rotate(0)" text-anchor="middle">
+            nsfw
+        </text>
+        <text id="tag_124"
+              style="font-size: 11px; font-family: Impact; font-weight: normal; fill: rgb(59, 196, 59); cursor: pointer; user-select: none;"
+              transform="translate(-24,117)rotate(0)" text-anchor="middle">
+            funny
+        </text>
+        <text id="tag_125"
+              style="font-size: 11px; font-family: Impact; font-weight: normal; fill: rgb(60, 196, 60); cursor: pointer; user-select: none;"
+              transform="translate(-139,435)rotate(0)" text-anchor="middle">
+            topdown shooter
+        </text>
+        <text id="tag_126"
+              style="font-size: 11px; font-family: Impact; font-weight: normal; fill: rgb(60, 196, 60); cursor: pointer; user-select: none;"
+              transform="translate(-337,378)rotate(0)" text-anchor="middle">
+            dystopian
+        </text>
+        <text id="tag_127"
+              style="font-size: 11px; font-family: Impact; font-weight: normal; fill: rgb(60, 196, 60); cursor: pointer; user-select: none;"
+              transform="translate(-59,39)rotate(0)" text-anchor="middle">
+            clicker
+        </text>
+        <text id="tag_128"
+              style="font-size: 11px; font-family: Impact; font-weight: normal; fill: rgb(60, 196, 60); cursor: pointer; user-select: none;"
+              transform="translate(-315,103)rotate(0)" text-anchor="middle">
+            surreal
+        </text>
+        <text id="tag_129"
+              style="font-size: 11px; font-family: Impact; font-weight: normal; fill: rgb(60, 196, 60); cursor: pointer; user-select: none;"
+              transform="translate(-269,-394)rotate(0)" text-anchor="middle">
+            3d platformer
+        </text>
+        <text id="tag_130"
+              style="font-size: 11px; font-family: Impact; font-weight: normal; fill: rgb(60, 196, 60); cursor: pointer; user-select: none;"
+              transform="translate(55,-181)rotate(0)" text-anchor="middle">
+            realtime
+        </text>
+        <text id="tag_131"
+              style="font-size: 11px; font-family: Impact; font-weight: normal; fill: rgb(60, 196, 60); cursor: pointer; user-select: none;"
+              transform="translate(-209,-414)rotate(0)" text-anchor="middle">
+            thirdperson shooter
+        </text>
+        <text id="tag_132"
+              style="font-size: 10px; font-family: Impact; font-weight: normal; fill: rgb(60, 195, 60); cursor: pointer; user-select: none;"
+              transform="translate(-343,398)rotate(0)" text-anchor="middle">
+            base building
+        </text>
+        <text id="tag_133"
+              style="font-size: 10px; font-family: Impact; font-weight: normal; fill: rgb(60, 195, 60); cursor: pointer; user-select: none;"
+              transform="translate(-258,121)rotate(0)" text-anchor="middle">
+            cartoony
+        </text>
+        <text id="tag_134"
+              style="font-size: 10px; font-family: Impact; font-weight: normal; fill: rgb(60, 195, 60); cursor: pointer; user-select: none;"
+              transform="translate(-231,-263)rotate(0)" text-anchor="middle">
+            local coop
+        </text>
+        <text id="tag_135"
+              style="font-size: 10px; font-family: Impact; font-weight: normal; fill: rgb(60, 195, 60); cursor: pointer; user-select: none;"
+              transform="translate(123,-424)rotate(0)" text-anchor="middle">
+            survival horror
+        </text>
+        <text id="tag_136"
+              style="font-size: 10px; font-family: Impact; font-weight: normal; fill: rgb(60, 195, 60); cursor: pointer; user-select: none;"
+              transform="translate(-22,37)rotate(0)" text-anchor="middle">
+            robots
+        </text>
+        <text id="tag_137"
+              style="font-size: 10px; font-family: Impact; font-weight: normal; fill: rgb(60, 195, 60); cursor: pointer; user-select: none;"
+              transform="translate(-19,76)rotate(0)" text-anchor="middle">
+            colorful
+        </text>
+        <text id="tag_138"
+              style="font-size: 10px; font-family: Impact; font-weight: normal; fill: rgb(61, 195, 61); cursor: pointer; user-select: none;"
+              transform="translate(48,-110)rotate(0)" text-anchor="middle">
+            vr
+        </text>
+        <text id="tag_139"
+              style="font-size: 10px; font-family: Impact; font-weight: normal; fill: rgb(61, 195, 61); cursor: pointer; user-select: none;"
+              transform="translate(-159,-115)rotate(0)" text-anchor="middle">
+            shooter
+        </text>
+        <text id="tag_140"
+              style="font-size: 10px; font-family: Impact; font-weight: normal; fill: rgb(61, 195, 61); cursor: pointer; user-select: none;"
+              transform="translate(-106,-33)rotate(0)" text-anchor="middle">
+            fps
+        </text>
+    </g>
+</svg>
